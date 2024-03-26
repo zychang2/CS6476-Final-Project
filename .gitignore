@@ -7,4 +7,6 @@
 *.zip
 
 # ignore the processed images
-/Image processing/video_proc
+/Image processing/video_proc/
+
+/CNN/unused
