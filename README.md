@@ -18,11 +18,17 @@ The aim of this project is to investigate the performance different types of Dee
 | ![Image 1](resources/img1.jpg) | ![Image 2](resources/img2.jpg) | ![Image 3](resources/img3.jpg) | ![Image 4](resources/img4.jpg) | ![Image 5](resources/img5.jpg) |
 
 
-
 <p align="center">
     <b>Example of a video with "Oops":</b><br>
     <a href="https://youtu.be/CBYLn15tSCA">Oops! video</a>
 </p>
+
+#### Selected frames from the video:
+
+| Image 1 | Image 2 | Image 3 | Image 4 | Image 5 |
+|---------|---------|---------|---------|---------|
+| ![Image 1](resources/img6.jpg) | ![Image 2](resources/img7.jpg) | ![Image 3](resources/img8.jpg) | ![Image 4](resources/img9.jpg) | ![Image 5](resources/img10.jpg) |
+
 
 
 ## Reference
