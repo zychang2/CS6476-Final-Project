@@ -3,3 +3,8 @@
 # ignore the videos
 /Video processing/video_small/train
 /Video processing/video_small/val
+
+*.zip
+
+# ignore the processed images
+/Image processing/video_proc
