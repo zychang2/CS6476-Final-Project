@@ -13,9 +13,18 @@ The aim of this project is to investigate the performance different types of Dee
 
 #### Selected frames from the video:
 
-| 0s | 1s | 2s | 3s | 4s | 5s |
-|---------|---------|---------|---------|---------|---------|
-| ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_00.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_05.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_10.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_14.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_19.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_24.jpg) |
+
+![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_00.jpg)
+
+![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_05.jpg)
+
+![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_10.jpg)
+
+![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_14.jpg)
+
+![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_19.jpg)
+
+![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_24.jpg)
 
 
 <p align="center">
