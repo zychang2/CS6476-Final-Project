@@ -1,0 +1,5 @@
+*/__pycache__
+
+# ignore the videos
+/Video processing/video_small/train
+/Video processing/video_small/val
