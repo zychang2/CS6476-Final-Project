@@ -6,22 +6,23 @@ The aim of this project is to investigate the performance different types of Dee
 
 ### Sample data
 
-#### Example of a video without "Oops":
-
-![Video 1](https://youtu.be/zkm6EhrSDso)
+<p align="center">
+    <b>Example of a video without "Oops":</b><br>
+    <a href="https://youtu.be/zkm6EhrSDso">No Oops! video</a>
+</p>
 
 #### Selected frames from the video:
 
-
-
 | 0s | 1s | 2s | 3s | 4s | 5s |
 |---------|---------|---------|---------|---------|---------|
-| ![Image 1](resources\25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_00.jpg) | ![Image 1](resources\25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_05.jpg) | ![Image 1](resources\25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_10.jpg) | ![Image 1](resources\25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_14.jpg) | ![Image 1](resources\25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_19.jpg) | ![Image 1](resources\25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_24.jpg) |
+| ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_00.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_05.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_10.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_14.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_19.jpg) | ![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_24.jpg) |
 
 
-#### Example of a video with "Oops":
+<p align="center">
+    <b>Example of a video with "Oops":</b><br>
+    <a href="https://youtu.be/CBYLn15tSCA">Oops! video</a>
+</p>
 
-![Video 2](https://youtu.be/CBYLn15tSCA)
 
 ## Reference
 [1]: https://arxiv.org/pdf/1911.11206.pdf
