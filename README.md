@@ -13,18 +13,10 @@ The aim of this project is to investigate the performance different types of Dee
 
 #### Selected frames from the video:
 
+| Image 1 | Image 2 | Image 3 | Image 4 | Image 5 |
+|---------|---------|---------|---------|---------|
+| ![Image 1](resources/img1.jpg) | ![Image 2](resources/img2.jpg) | ![Image 3](resources/img3.jpg) | ![Image 4](resources/img4.jpg) | ![Image 5](resources/img5.jpg) |
 
-![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_00.jpg)
-
-![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_05.jpg)
-
-![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_10.jpg)
-
-![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_14.jpg)
-
-![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_19.jpg)
-
-![Image 1](resources/25 Best Trampoline Fail Nominees - FailArmy Hall of Fame (July 2017)18_24.jpg)
 
 
 <p align="center">
