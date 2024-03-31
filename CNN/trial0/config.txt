@@ -1,0 +1,6 @@
+# RN34 Params
+criterion = nn.CrossEntropyLoss(weight=class_weights)
+
+# criterion = nn.CrossEntropyLoss()
+optimizer = optim.SGD(model.parameters(), lr=0.005, weight_decay=0.0005)
+scheduler = lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.2)
