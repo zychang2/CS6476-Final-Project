@@ -12,8 +12,8 @@ class ModResNet(nn.Module):
     def __init__(self, num_classes=2):
         super(ModResNet, self).__init__()
         
-        # Load the pre-trained ResNet34 model and freeze its parameters
-        self.resnet = models.resnet34(weights=models.ResNet34_Weights.IMAGENET1K_V1)
+        # Load the pre-trained ResNet50 model
+        self.resnet = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V2)
         num_ftrs = self.resnet.fc.in_features
         for param in self.resnet.parameters():
             param.requires_grad = True
