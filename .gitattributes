@@ -2,3 +2,5 @@ CNN/checkpoints/NaiveCNN.pth filter=lfs diff=lfs merge=lfs -text
 CNN/checkpoints/ModResNet.pth filter=lfs diff=lfs merge=lfs -text
 CNN/checkpoints/ModResNet_groundup.pth filter=lfs diff=lfs merge=lfs -text
 CNN/checkpoints/ filter=lfs diff=lfs merge=lfs -text
+CNN/checkpoints/ModResNet34_groundup_1.pth filter=lfs diff=lfs merge=lfs -text
+CNN/checkpoints/ModResNet50_groundup.pth filter=lfs diff=lfs merge=lfs -text
