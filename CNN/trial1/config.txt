@@ -1,0 +1,18 @@
+# Define device
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+# RN34 Params
+criterion = nn.CrossEntropyLoss(weight=class_weights)
+
+# criterion = nn.CrossEntropyLoss()
+optimizer = optim.SGD(model.parameters(), lr=0.003)
+scheduler = lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.2)
+
+# Possible data augmentation transforms
+RN_transform = transforms.Compose([
+    transforms.Resize((224, 224)),
+    transforms.Grayscale(num_output_channels=3),  # Convert single-channel image to RGB
+    transforms.RandomHorizontalFlip(p=0.5),
+    transforms.RandomRotation(degrees=(-10, 10)),
+    transforms.ToTensor(),
+])
