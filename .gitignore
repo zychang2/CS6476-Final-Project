@@ -10,3 +10,4 @@
 /Image processing/video_proc/
 
 /CNN/unused
+/ViT/checkpoints/*/*.pth
