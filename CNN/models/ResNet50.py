@@ -16,8 +16,11 @@ class ModResNet(nn.Module):
         self.resnet = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V2)
         num_ftrs = self.resnet.fc.in_features
         for param in self.resnet.parameters():
+            param.requires_grad = False
+        
+        for param in self.resnet.layer4.parameters():
             param.requires_grad = True
-
+        
         # Replace the last fully connected layer with an identity layer
         self.resnet.fc = nn.Identity()
 
