@@ -7,7 +7,3 @@ CNN/checkpoints/ModResNet50_groundup.pth filter=lfs diff=lfs merge=lfs -text
 CNN/checkpoints/trial1/RN34ep_8.pth filter=lfs diff=lfs merge=lfs -text
 CNN/checkpoints/trial1/RN34ep_12.pth filter=lfs diff=lfs merge=lfs -text
 CNN/checkpoints/trial2/RN34ep_24.pth filter=lfs diff=lfs merge=lfs -text
-ViT/checkpoints/ filter=lfs diff=lfs merge=lfs -text
-ViT/checkpoints/trial0/vtb16ep_4.pth filter=lfs diff=lfs merge=lfs -text
-ViT/checkpoints/trial0/vtb16ep_5.pth filter=lfs diff=lfs merge=lfs -text
-ViT/checkpoints/trial0/vtb16ep_7.pth filter=lfs diff=lfs merge=lfs -text
